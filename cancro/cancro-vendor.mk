@@ -40,11 +40,11 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/cancro/proprietary/vendor/bin/wcnss_service:system/vendor/bin/wcnss_service \
     vendor/xiaomi/cancro/proprietary/vendor/bin/xtwifi-client:system/vendor/bin/xtwifi-client \
     vendor/xiaomi/cancro/proprietary/vendor/bin/xtwifi-inet-agent:system/vendor/bin/xtwifi-inet-agent \
-    vendor/xiaomi/cancro/proprietary/etc/android_model_facea.dat:system/etc/android_model_facea.dat \
-    vendor/xiaomi/cancro/proprietary/etc/android_model_faceg.dat:system/etc/android_model_faceg.dat \
-    vendor/xiaomi/cancro/proprietary/etc/data/dsi_config.xml:system/etc/data/dsi_config.xml \
-    vendor/xiaomi/cancro/proprietary/etc/data/netmgr_config.xml:system/etc/data/netmgr_config.xml \
-    vendor/xiaomi/cancro/proprietary/etc/data/qmi_config.xml:system/etc/data/qmi_config.xml \
+    vendor/xiaomi/cancro/proprietary/vendor/etc/android_model_facea.dat:system/vendor/etc/android_model_facea.dat \
+    vendor/xiaomi/cancro/proprietary/vendor/etc/android_model_faceg.dat:system/vendor/etc/android_model_faceg.dat \
+    vendor/xiaomi/cancro/proprietary/vendor/etc/data/dsi_config.xml:system/vendor/etc/data/dsi_config.xml \
+    vendor/xiaomi/cancro/proprietary/vendor/etc/data/netmgr_config.xml:system/vendor/etc/data/netmgr_config.xml \
+    vendor/xiaomi/cancro/proprietary/vendor/etc/data/qmi_config.xml:system/vendor/etc/data/qmi_config.xml \
     vendor/xiaomi/cancro/proprietary/vendor/firmware/a330_pfp.fw:system/vendor/firmware/a330_pfp.fw \
     vendor/xiaomi/cancro/proprietary/vendor/firmware/a330_pm4.fw:system/vendor/firmware/a330_pm4.fw \
     vendor/xiaomi/cancro/proprietary/vendor/firmware/cpp_firmware_v1_1_1.fw:system/vendor/firmware/cpp_firmware_v1_1_1.fw \
@@ -66,14 +66,14 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/cancro/proprietary/vendor/firmware/wcnss.b08:system/vendor/firmware/wcnss.b08 \
     vendor/xiaomi/cancro/proprietary/vendor/firmware/wcnss.b09:system/vendor/firmware/wcnss.b09 \
     vendor/xiaomi/cancro/proprietary/vendor/firmware/wcnss.mdt:system/vendor/firmware/wcnss.mdt \
-    vendor/xiaomi/cancro/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
-    vendor/xiaomi/cancro/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
-    vendor/xiaomi/cancro/proprietary/etc/sdm_200_HOG3x3_Grid3x3_bin5_noproj_zero_reduced.bin.pca:system/etc/sdm_200_HOG3x3_Grid3x3_bin5_noproj_zero_reduced.bin.pca \
-    vendor/xiaomi/cancro/proprietary/etc/sdm_200_HOG3x3_Grid3x3_bin5_noproj_zero_reduced.bin:system/etc/sdm_200_HOG3x3_Grid3x3_bin5_noproj_zero_reduced.bin \
-    vendor/xiaomi/cancro/proprietary/etc/sensor_def_qcomdev.conf:system/etc/sensor_def_qcomdev.conf \
-    vendor/xiaomi/cancro/proprietary/etc/thermal-engine-8974.conf:system/etc/thermal-engine-8974.conf \
-    vendor/xiaomi/cancro/proprietary/etc/thermal-engine-perf.conf:system/etc/thermal-engine-perf.conf \
-    vendor/xiaomi/cancro/proprietary/etc/thermanager.xml:system/etc/thermanager.xml \
+    vendor/xiaomi/cancro/proprietary/vendor/etc/permissions/qcnvitems.xml:system/vendor/etc/permissions/qcnvitems.xml \
+    vendor/xiaomi/cancro/proprietary/vendor/etc/permissions/qcrilhook.xml:system/vendor/etc/permissions/qcrilhook.xml \
+    vendor/xiaomi/cancro/proprietary/vendor/etc/sdm_200_HOG3x3_Grid3x3_bin5_noproj_zero_reduced.bin.pca:system/vendor/etc/sdm_200_HOG3x3_Grid3x3_bin5_noproj_zero_reduced.bin.pca \
+    vendor/xiaomi/cancro/proprietary/vendor/etc/sdm_200_HOG3x3_Grid3x3_bin5_noproj_zero_reduced.bin:system/vendor/etc/sdm_200_HOG3x3_Grid3x3_bin5_noproj_zero_reduced.bin \
+    vendor/xiaomi/cancro/proprietary/vendor/etc/sensor_def_qcomdev.conf:system/vendor/etc/sensor_def_qcomdev.conf \
+    vendor/xiaomi/cancro/proprietary/vendor/etc/thermal-engine-8974.conf:system/vendor/etc/thermal-engine-8974.conf \
+    vendor/xiaomi/cancro/proprietary/vendor/etc/thermal-engine-perf.conf:system/vendor/etc/thermal-engine-perf.conf \
+    vendor/xiaomi/cancro/proprietary/vendor/etc/thermanager.xml:system/vendor/etc/thermanager.xml \
     vendor/xiaomi/cancro/proprietary/framework/qcnvitems.jar:system/framework/qcnvitems.jar \
     vendor/xiaomi/cancro/proprietary/framework/qcrilhook.jar:system/framework/qcrilhook.jar \
     vendor/xiaomi/cancro/proprietary/framework/qti-telephony-common.jar:system/framework/qti-telephony-common.jar \
